@@ -88,9 +88,9 @@
 ```
 移动端图像化界面
 
-![https://github.com/xiongdun8/liuyao/blob/main/github_image/BaiduShurufa_2025-9-6_21-2-15.png]()
+![界面截图](https://github.com/xiongdun8/liuyao/blob/main/github_image/BaiduShurufa_2025-9-6_21-2-15.png)
 
-![https://github.com/xiongdun8/liuyao/blob/main/github_image/BaiduShurufa_2025-9-6_21-2-45.png]()
+![界面截图](https://github.com/xiongdun8/liuyao/blob/main/github_image/BaiduShurufa_2025-9-6_21-2-45.png)
 
 复制仓库到本地\直接打包下载
 
