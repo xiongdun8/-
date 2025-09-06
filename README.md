@@ -125,7 +125,7 @@ python UImain.py
 ```
 **如何调用**
 
-主程序main.py中的arrange_hexagram(original_hexagram, time, reason)函数为关键函数，方法调用如下：
+主程序main.py中的arrange_hexagram(original_hexagram, time, reason)函数为关键函数，返回到值为排盘的所有结果，方法调用如下：
 
 **1. 第一个参数：original_hexagram（本卦编码列表）**
 
